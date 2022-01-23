@@ -1,16 +1,22 @@
-# cv
+# CV : Marius Vergonjeanne
 
-A new Flutter project.
+Bonjour Richard ! 
+Voici la V1 du projet (que je souhaite bien évidemment faire évoluer).
 
-## Getting Started
+## Commentaires sur le projet
 
-This project is a starting point for a Flutter application.
+- J'ai plutot bien aimé faire se projet, même si j'ai du y laisser une bonne poignée de cheveux à force de tirer dessus.
+- Je sais pas ce que j'ai foutu mais j'ai un loader infini qui est apparu ce week end alors que j'approchais de la fin => pas de screenshot valable donc sauf vue Profil.
 
-A few resources to get you started if this is your first Flutter project:
+## Difficultés principales rencontrées
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Mon émulateur qui prend des plonnnnnnnbs à se mettre à jour
+- L'affichage des images
+- L'organisation du code 
+- La page Info, que j'ai finis pas remettre à l'état initiale.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Evolutions ulterieures
+
+- Refaire fonctionner l'application !
+- Y ajouter une meilleure expérience UX
+- En faire une vrai app CV !
