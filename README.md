@@ -1,3 +1,6 @@
+# LIEN AIRTABLE : 
+- https://airtable.com/invite/l?inviteId=invMXXNbtNxL0YF0e&inviteToken=28bcb30a9135513cc88a6f1a1daf38980897dc2a68a3991e37785171e86eda1f&utm_source=email
+
 # CV : Marius Vergonjeanne
 
 Bonjour Richard ! 
